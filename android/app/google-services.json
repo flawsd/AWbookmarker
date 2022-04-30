@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "415051672347",
+    "project_id": "bookmarker-c9a5a",
+    "storage_bucket": "bookmarker-c9a5a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415051672347:android:46e0ad6f4cca180ae9c1be",
+        "android_client_info": {
+          "package_name": "com.flaw.senior.bookmarker1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415051672347-rsftjug3cl1qd7ucof06lqfctssjp8r3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBkLcW_wNN1t6zrtNBnisN4HtfVs0eY_zQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415051672347-rsftjug3cl1qd7ucof06lqfctssjp8r3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "415051672347-4rm24v0oc1utipu6mm48rc4048sl15lq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flaw.senior.bookmarker1"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
